@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌌 Welcome to My World
 
-<!--
-**HitBoyXx23-dev/HitBoyXx23-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Become a part of [Kurara World](https://discord.gg/Q99qrnj4TV)
 
-Here are some ideas to get you started:
+Hey there 👋
+I'm **HitBoyXx23**, a creator exploring code, creativity, and digital worlds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ About Me
+
+* 💻 Developer passionate about building cool and unique projects
+* 🌍 Interested in communities, creativity, and online worlds
+* 🚀 Constantly learning, improving, and experimenting
+
+---
+
+## 📫 Contact Me
+
+* **Email**: [hitboyxx23@navine.dev](mailto:creations@creations.works)
+* **Discord**: [hitboyxx23](https://discord.com/users/1114586353116647444)
+* **BlueSky**: [hitboyxx23](https://bsky.app/profile/hitboyxx23)
+
+---
+
+## 🌠 Join the Community
+
+If you enjoy what I create, come hang out in **Kurara World** and be part of the journey.
+
+> *“Create. Explore. Become.”*
+
+---
+
+⭐ **Thanks for visiting my profile!**
