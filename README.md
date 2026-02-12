@@ -15,6 +15,13 @@ I'm **HitBoyXx23**, a creator exploring code, creativity, and digital worlds.
 
 ---
 
+## 🌐 Websites
+
+* 🧑‍💻 **Personal Website**: https://hitboyxx23.dev
+* 🏢 **Business Website**: https://navine.dev
+
+---
+
 ## 📫 Contact Me
 
 * **Email**: [hitboyxx23@navine.dev](mailto:hitboyxx23@navine.dev)
