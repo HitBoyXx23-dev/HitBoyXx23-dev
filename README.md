@@ -19,7 +19,7 @@ I'm **HitBoyXx23**, a creator exploring code, creativity, and digital worlds.
 
 * **Email**: [hitboyxx23@navine.dev](mailto:creations@creations.works)
 * **Discord**: [hitboyxx23](https://discord.com/users/1114586353116647444)
-* **BlueSky**: [hitboyxx23](https://bsky.app/profile/hitboyxx23)
+* **BlueSky**: [hitboyxx23](https://bsky.app/profile/hitboyxx23@navine.dev)
 
 ---
 
